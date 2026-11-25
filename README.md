@@ -8,7 +8,7 @@ Welcome to my data analytics portfolio! This repository documents my ongoing lea
 
 | Project | Tools Used | Description |
 | :--- | :--- | :--- |
-| **[Data Jobs Dashboard](./Data-Jobs-Dashboard)** | Power BI, DAX, Power Query | Interactive dashboard analyzing 479K+ data job postings across 2024, tracking salary benchmarks, hiring trends, and remote work availability. |
+| **[Data Jobs Dashboard v1](./Data_Jobs_v1)** | Power BI, DAX, Power Query | Interactive dashboard analyzing 479K+ data job postings across 2024, tracking salary benchmarks, hiring trends, and remote work availability. |
 | **[Project 2 Name](./Project-2-Folder)** | SQL / Excel / Power BI | *Brief 1-sentence description of what this project analyzes and key insights found.* |
 
 ---
